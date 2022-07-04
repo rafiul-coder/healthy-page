@@ -9,6 +9,10 @@ h1{
     color: orange;
 }
 .Top-banner{
-    display: flex;
-    margin: 10;
+    display:flex;
+    margin: 100px 10%;
+}
+.Top-banner img{
+    width: 80%;
+
 }
