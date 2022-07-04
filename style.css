@@ -1,0 +1,14 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 60px;
+}
+.Orange-color{
+    color: orange;
+}
+.Top-banner{
+    display: flex;
+    margin: 10;
+}
