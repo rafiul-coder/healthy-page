@@ -32,15 +32,17 @@ color:white ;
 
 }
 #section-two{
-    margin-bottom: 100px;
     background-image: url("images/shapes/Frame 58.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-blend-mode: multiply;
     background-position: center;
+    margin-bottom:  100px;
     
 }
-
+.about-padd{
+    padding-left: 10%;
+}
 .half-div{
     width: 50%;
 }
