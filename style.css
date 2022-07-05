@@ -56,3 +56,24 @@ color:white ;
     padding-bottom: 30px;
     width: 50%;
 }
+.recipies{
+
+
+    text-align:center ;
+
+}
+.th-image img{
+    height: 300px;
+    width: 450px;
+    
+}
+.th-image{
+    width: 50%;
+    background: #FFFFFF;
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+border-radius: 30px;
+}
+.rafi{
+    display: flex;
+    
+}
