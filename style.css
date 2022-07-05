@@ -64,16 +64,36 @@ color:white ;
 }
 .th-image img{
     height: 300px;
-    width: 450px;
+    width: 500px;
+    margin: 20px;
     
 }
 .th-image{
-    width: 50%;
-    background: #FFFFFF;
-box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    background: white;
+box-shadow: 20px 4px 40px rgba(0, 0, 0, 0.15);
 border-radius: 30px;
+width: min-content;
 }
-.rafi{
-    display: flex;
+.recipies-side{
+    margin: 40px 170px 20px 170px;
     
+    
+}.recipies-back{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+}
+.th-image h1{
+    margin-left: 20px;
+    font-weight: 800px;
+    font-size: 28px;
+    line-height: 40px;
+}
+.th-image p{
+    margin-left: 20px;
+    margin-right: 2%;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 25px;
 }
